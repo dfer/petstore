@@ -1,5 +1,4 @@
 require_relative '../lib/petstore'
-#require './pet'
 
 describe do
 	context 'Тестирование класса Pet' do
