@@ -22,8 +22,8 @@
 
 ## Запуск тестов
     cd petstore
-    run rspec --init
-    rspec spec/petstore_spec.rb
+    rspec --init
+    rspec spec/petstore_spec.rb -f d
 
 ## Примеры использования
     require 'petstore'
